@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
 FontName: Suske&WiskeBallontekst
 FullName: Suske & Wiske Ballontekst
-FamilyName: Suske&WiskeBallontekst
+FamilyName: Suske & Wiske Ballontekst
 Weight: Book
-Copyright: Origineel door Ramon van Dam
+Copyright: Studio Vandersteen, oorspronkelijk gedigitaliseerd door Ramon van Dam
 Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: -359
@@ -3913,30 +3913,6 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1055 "" "" "Normal"
-LangName: 1053 "" "" "Normal"
-LangName: 1034 "" "" "Normal"
-LangName: 3082 "" "" "Normal"
-LangName: 2058 "" "" "Normal"
-LangName: 1060 "" "" "Navadno"
-LangName: 1051 "" "" "Norm+AOEA-lne"
-LangName: 1049 "" "" "+BB4EMQRLBEcEPQRLBDkA"
-LangName: 1046 "" "" "Normal"
-LangName: 2070 "" "" "Normal"
-LangName: 1045 "" "" "Normalny"
-LangName: 1044 "" "" "Normal"
-LangName: 1040 "" "" "Normale"
-LangName: 1038 "" "" "Norm+AOEA-l"
-LangName: 1032 "" "" "+A5oDsQO9A78DvQO5A7oDrAAA"
-LangName: 1031 "" "" "Standard"
-LangName: 1036 "" "" "Normal"
-LangName: 3084 "" "" "Normal"
-LangName: 1035 "" "" "Normaali"
-LangName: 1030 "" "" "normal"
-LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
-LangName: 1027 "" "" "Normal"
-LangName: 1069 "" "" "Arrunta"
-LangName: 1033 "" "" "Oblique" "" "" "Version 2.0" "" "" "Microsoft Corp." "Vincent Connare" "Designed by Microsoft's Vincent Connare, this is a face based on the lettering from comic magazines. This casual but legible face has proved very popular with a wide variety of people." "http://www.microsoft.com" "http://www.microsoft.com/typography/"
 LangName: 1043 "" "" "Oblique"
 GaspTable: 3 8 2 15 1 65535 3 0
 Encoding: UnicodeBmp
