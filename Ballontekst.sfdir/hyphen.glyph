@@ -1,0 +1,58 @@
+StartChar: hyphen
+Encoding: 45 45 3
+Width: 447
+GlyphClass: 2
+Flags: W
+HStem: 461 170<11.8125 632.312>
+VStem: 0 647<483.25 610.262>
+TtInstrs:
+NPUSHB
+ 15
+ 9
+ 6
+ 131
+ 2
+ 14
+ 41
+ 41
+ 44
+ 11
+ 4
+ 43
+ 13
+ 58
+ 60
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+FLIPON
+MDRP[rp0,min,rnd,black]
+FLIPOFF
+RCVT
+NEG
+WCVTP
+MIRP[rnd,white]
+SVTCA[y-axis]
+MDAP[rnd]
+FLIPON
+MIRP[rp0,min,rnd,black]
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+568 475 m 0,0,1
+ 432 461 432 461 84 461 c 0,2,3
+ 0 461 0 461 0 539 c 256,4,5
+ 0 617 0 617 84 617 c 0,6,7
+ 163 617 163 617 321 624 c 128,-1,8
+ 479 631 479 631 558 631 c 0,9,10
+ 647 631 647 631 647 553 c 0,11,12
+ 647 484 647 484 568 475 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

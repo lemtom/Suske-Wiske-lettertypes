@@ -1,0 +1,13 @@
+StartChar: aring
+Encoding: 229 229 98
+Width: 668
+GlyphClass: 2
+Flags: W
+HStem: 1420 147<310.292 599.726> 1843 149<312.771 604.997>
+VStem: 115 150<1614.37 1794.49> 639 150<1606.95 1806.23>
+LayerCount: 2
+Fore
+Refer: 38 97 N 1 0 0 1 0 0 3
+Refer: 135 730 S 1 0 0 1 430 240 2
+Validated: 1
+EndChar

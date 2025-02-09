@@ -1,0 +1,108 @@
+StartChar: bullet
+Encoding: 8226 8226 153
+Width: 200
+GlyphClass: 2
+Flags: W
+HStem: 558 401<75.4376 324.562>
+VStem: 0 400<631.508 884.875>
+TtInstrs:
+NPUSHB
+ 62
+ 15
+ 3
+ 31
+ 3
+ 47
+ 3
+ 63
+ 3
+ 95
+ 3
+ 111
+ 3
+ 127
+ 3
+ 143
+ 3
+ 223
+ 3
+ 9
+ 3
+ 9
+ 13
+ 41
+ 41
+ 44
+ 15
+ 6
+ 31
+ 6
+ 47
+ 6
+ 63
+ 6
+ 95
+ 6
+ 111
+ 6
+ 127
+ 6
+ 143
+ 6
+ 223
+ 6
+ 9
+ 6
+ 15
+ 0
+ 31
+ 0
+ 47
+ 0
+ 63
+ 0
+ 79
+ 0
+ 5
+ 0
+ 43
+ 12
+ 77
+ 150
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+FLIPON
+MDRP[rp0,min,rnd,black]
+DELTAP1
+FLIPOFF
+RCVT
+NEG
+WCVTP
+MIRP[rnd,white]
+SVTCA[y-axis]
+MDAP[rnd]
+FLIPON
+MDRP[min,rnd,black]
+DELTAP1
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 758 m 256,0,1
+ 0 841 0 841 58.5 900 c 128,-1,2
+ 117 959 117 959 200 959 c 256,3,4
+ 283 959 283 959 341.5 900 c 128,-1,5
+ 400 841 400 841 400 758 c 256,6,7
+ 400 675 400 675 341.5 616.5 c 128,-1,8
+ 283 558 283 558 200 558 c 256,9,10
+ 117 558 117 558 58.5 616.5 c 128,-1,11
+ 0 675 0 675 0 758 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar

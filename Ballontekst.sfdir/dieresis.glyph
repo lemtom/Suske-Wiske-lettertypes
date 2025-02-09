@@ -1,0 +1,63 @@
+StartChar: dieresis
+Encoding: 168 168 65
+Width: 554
+GlyphClass: 2
+Flags: W
+HStem: 1184 188<18.7683 223.051 522.314 730.399>
+VStem: 0 242<1209.75 1348.93> 502 252<1213.89 1356.74>
+TtInstrs:
+NPUSHB
+ 17
+ 11
+ 63
+ 16
+ 0
+ 63
+ 6
+ 20
+ 142
+ 14
+ 2
+ 142
+ 8
+ 43
+ 24
+ 96
+ 74
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,grey]
+FLIPON
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MDRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+111 1372 m 0,0,1
+ 242 1372 242 1372 242 1267 c 0,2,3
+ 242 1237 242 1237 198 1209 c 0,4,5
+ 158 1184 158 1184 123 1184 c 0,6,7
+ 0 1184 0 1184 0 1287 c 0,8,9
+ 0 1316 0 1316 37.5 1344 c 128,-1,10
+ 75 1372 75 1372 111 1372 c 0,0,1
+650 1380 m 0,11,12
+ 684 1380 684 1380 719 1348.5 c 128,-1,13
+ 754 1317 754 1317 754 1287 c 0,14,15
+ 754 1195 754 1195 611 1195 c 0,16,17
+ 570 1195 570 1195 538 1216 c 0,18,19
+ 502 1240 502 1240 502 1279 c 0,20,21
+ 502 1348 502 1348 547 1368 c 0,22,23
+ 572 1380 572 1380 650 1380 c 0,11,12
+EndSplineSet
+Validated: 1
+EndChar

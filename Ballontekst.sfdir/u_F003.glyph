@@ -1,0 +1,120 @@
+StartChar: uF003
+Encoding: 61443 61443 160
+Width: 86
+GlyphClass: 2
+Flags: W
+HStem: 1193 504<59.311 156.709>
+VStem: 0 158<1272.66 1449.84>
+TtInstrs:
+NPUSHB
+ 65
+ 181
+ 13
+ 1
+ 204
+ 9
+ 1
+ 169
+ 9
+ 185
+ 9
+ 2
+ 9
+ 24
+ 14
+ 18
+ 72
+ 59
+ 9
+ 75
+ 9
+ 2
+ 203
+ 13
+ 1
+ 63
+ 2
+ 1
+ 5
+ 64
+ 19
+ 25
+ 72
+ 5
+ 64
+ 12
+ 17
+ 72
+ 5
+ 32
+ 0
+ 1
+ 0
+ 175
+ 2
+ 1
+ 2
+ 11
+ 18
+ 0
+ 7
+ 16
+ 7
+ 32
+ 7
+ 176
+ 7
+ 192
+ 7
+ 5
+ 7
+ 191
+ 2
+ 1
+ 2
+ 15
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rp0,min,rnd,black]
+DELTAP1
+MDRP[min,rnd,black]
+DELTAP1
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+MDRP[rnd,black]
+DELTAP1
+MDRP[rp0,min,rnd,black]
+DELTAP1
+MDRP[rnd,grey]
+CALL
+CALL
+SVTCA[y-axis]
+DELTAP1
+IUP[x]
+IUP[y]
+DELTAP1
+SVTCA[x-axis]
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+286 1576 m 0,0,1
+ 286 1466 286 1466 158 1436 c 1,2,3
+ 158 1392 158 1392 176.5 1342.5 c 128,-1,4
+ 195 1293 195 1293 195 1272 c 0,5,6
+ 195 1193 195 1193 124 1193 c 0,7,8
+ 63 1193 63 1193 28 1282 c 0,9,10
+ 0 1352 0 1352 0 1431 c 0,11,12
+ 0 1533 0 1533 30 1603 c 0,13,14
+ 69 1697 69 1697 154 1697 c 0,15,16
+ 206 1697 206 1697 246 1661.5 c 128,-1,17
+ 286 1626 286 1626 286 1576 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

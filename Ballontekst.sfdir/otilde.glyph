@@ -1,0 +1,13 @@
+StartChar: otilde
+Encoding: 245 245 107
+Width: 814
+GlyphClass: 2
+Flags: W
+HStem: 1146 182<604.033 797.698> 1384 149<591.731 776.519> 1605 150<238.451 417.866>
+VStem: -75.115 148<252.262 485.797>
+LayerCount: 2
+Fore
+Refer: 52 111 N 1 0 0 1 0.000355114 0 3
+Refer: 137 732 S 1 0 0 1 318.885 201 2
+Validated: 1
+EndChar

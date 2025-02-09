@@ -1,0 +1,53 @@
+StartChar: macron
+Encoding: 713 713 132
+Width: 493
+GlyphClass: 2
+Flags: W
+HStem: 1186 149<6.3457 686.002>
+TtInstrs:
+NPUSHB
+ 9
+ 6
+ 20
+ 2
+ 15
+ 12
+ 22
+ 8
+ 17
+ 21
+SRP0
+MDRP[rp0,rnd,white]
+MDRP[rp0,min,rnd,black]
+MDRP[rnd,white]
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rp0,rnd,grey]
+MDRP[rp0,min,rnd,black]
+RDTG
+MDRP[rnd,grey]
+MDRP[rnd,grey]
+RTG
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+135 1344 m 0,0,1
+ 174 1344 174 1344 253.5 1339.5 c 128,-1,2
+ 333 1335 333 1335 372 1335 c 0,3,4
+ 413 1335 413 1335 494 1337 c 128,-1,5
+ 575 1339 575 1339 615 1339 c 0,6,7
+ 693 1339 693 1339 693 1264 c 0,8,9
+ 693 1204 693 1204 628 1191 c 1,10,-1
+ 516 1186 l 1,11,-1
+ 361 1186 l 2,12,13
+ 313 1186 313 1186 217 1189 c 128,-1,14
+ 121 1192 121 1192 72 1192 c 0,15,16
+ 0 1192 0 1192 0 1268 c 0,17,18
+ 0 1319 0 1319 46 1335 c 0,19,20
+ 70 1344 70 1344 135 1344 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

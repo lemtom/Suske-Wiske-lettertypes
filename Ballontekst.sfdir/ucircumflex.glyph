@@ -1,0 +1,13 @@
+StartChar: ucircumflex
+Encoding: 251 251 111
+Width: 1024
+GlyphClass: 2
+Flags: W
+HStem: 1457 524
+VStem: 1024 189<1185.94 1288>
+LayerCount: 2
+Fore
+Refer: 58 117 N 1 0 0 1 0 0 3
+Refer: 130 710 S 1 0 0 1 459 258 2
+Validated: 1
+EndChar

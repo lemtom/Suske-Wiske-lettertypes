@@ -1,0 +1,12 @@
+StartChar: exclamdbl
+Encoding: 8252 8252 157
+Width: 1040
+GlyphClass: 2
+Flags: W
+HStem: 24 228<85.0999 206.561 525.1 646.561>
+VStem: 40 210<69.7031 208.657> 480 210<69.7031 208.657>
+LayerCount: 2
+Fore
+Refer: 0 33 N 1 0 0 1 0 0 2
+Refer: 0 33 N 1 0 0 1 440 0 2
+EndChar

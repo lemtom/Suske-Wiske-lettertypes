@@ -1,0 +1,13 @@
+StartChar: edieresis
+Encoding: 235 235 102
+Width: 688
+GlyphClass: 2
+Flags: W
+HStem: 1281 188<50.9385 255.221 554.484 762.57>
+VStem: 32.1702 242<1306.75 1445.93> 534.17 252<1310.89 1453.74>
+LayerCount: 2
+Fore
+Refer: 42 101 N 1 0 0 1 41 0 3
+Refer: 65 168 N 0.998818 -0.0486102 0.0486102 0.998818 348.087 232.176 2
+Validated: 1
+EndChar

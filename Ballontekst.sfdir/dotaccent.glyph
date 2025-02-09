@@ -1,0 +1,48 @@
+StartChar: dotaccent
+Encoding: 729 729 134
+Width: 44
+GlyphClass: 2
+Flags: W
+HStem: 1183 221<57.0156 185.534>
+VStem: 0 244<1239.85 1346.58>
+TtInstrs:
+NPUSHB
+ 10
+ 10
+ 116
+ 3
+ 0
+ 6
+ 43
+ 13
+ 123
+ 147
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+FLIPON
+MDRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+FLIPON
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+244 1278 m 0,0,1
+ 244 1242 244 1242 210 1212.5 c 128,-1,2
+ 176 1183 176 1183 139 1183 c 0,3,4
+ 107 1183 107 1183 53.5 1231 c 128,-1,5
+ 0 1279 0 1279 0 1310 c 0,6,7
+ 0 1347 0 1347 36 1376 c 0,8,9
+ 69 1404 69 1404 106 1404 c 0,10,11
+ 137 1404 137 1404 190.5 1355.5 c 128,-1,12
+ 244 1307 244 1307 244 1278 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

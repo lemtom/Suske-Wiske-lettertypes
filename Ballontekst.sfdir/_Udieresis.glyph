@@ -1,0 +1,13 @@
+StartChar: Udieresis
+Encoding: 220 220 92
+Width: 1426
+GlyphClass: 2
+Flags: W
+HStem: 1915 188<538.768 743.051 1042.31 1250.4>
+VStem: 520 242<1940.75 2079.93> 1022 252<1944.89 2087.74>
+LayerCount: 2
+Fore
+Refer: 29 85 N 1 0 0 1 0 0 3
+Refer: 65 168 S 1 0 0 1 815 707 2
+Validated: 1
+EndChar

@@ -1,0 +1,49 @@
+StartChar: quotesinglbase
+Encoding: 8218 8218 149
+Width: 125
+GlyphClass: 2
+Flags: W
+HStem: -194 418<155.576 168>
+VStem: 0 178<-184.82 -26.3713>
+TtInstrs:
+NPUSHB
+ 13
+ 0
+ 6
+ 15
+ 13
+ 207
+ 13
+ 223
+ 13
+ 3
+ 13
+ 2
+ 9
+ 16
+SRP0
+MDRP[rp0,rnd,grey]
+MDRP[min,rnd,black]
+MDRP[rnd,grey]
+DELTAP1
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+90 -194 m 0,0,1
+ 0 -194 0 -194 0 -100 c 0,2,3
+ 0 -35 0 -35 86 92 c 0,4,5
+ 175 224 175 224 233 224 c 0,6,7
+ 269 224 269 224 297 197 c 128,-1,8
+ 325 170 325 170 325 134 c 256,9,10
+ 325 98 325 98 255 16 c 0,11,12
+ 183 -70 183 -70 178 -109 c 0,13,14
+ 168 -194 168 -194 90 -194 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

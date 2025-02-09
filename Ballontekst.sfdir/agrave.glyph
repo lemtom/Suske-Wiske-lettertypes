@@ -1,0 +1,13 @@
+StartChar: agrave
+Encoding: 224 224 94
+Width: 668
+GlyphClass: 2
+Flags: W
+HStem: 1385 483
+VStem: 373 428
+LayerCount: 2
+Fore
+Refer: 38 97 N 1 0 0 1 0 0 3
+Refer: 37 96 S 1 0 0 1 383 198 2
+Validated: 1
+EndChar

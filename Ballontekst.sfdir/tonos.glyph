@@ -1,0 +1,42 @@
+StartChar: tonos
+Encoding: 900 900 139
+Width: 71
+GlyphClass: 2
+Flags: W
+HStem: 1149 356<103.708 140.219>
+VStem: 0 271<1229 1417> 44 227<1318.11 1433.71>
+TtInstrs:
+PUSHB_6
+ 9
+ 0
+ 19
+ 6
+ 15
+ 0
+SVTCA[y-axis]
+MIAP[rnd]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+271 1417 m 0,0,1
+ 271 1386 271 1386 217 1303 c 0,2,3
+ 178 1247 178 1247 139 1191 c 0,4,5
+ 111 1149 111 1149 73 1149 c 0,6,7
+ 42 1149 42 1149 21 1173.5 c 128,-1,8
+ 0 1198 0 1198 0 1229 c 0,9,10
+ 0 1245 0 1245 44 1340 c 0,11,12
+ 83 1425 83 1425 102 1458 c 0,13,14
+ 129 1505 129 1505 177 1505 c 0,15,16
+ 214 1505 214 1505 242.5 1479.5 c 128,-1,17
+ 271 1454 271 1454 271 1417 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,12 @@
+StartChar: ecircumflex
+Encoding: 234 234 101
+Width: 688
+GlyphClass: 2
+Flags: W
+HStem: 1354 524
+LayerCount: 2
+Fore
+Refer: 42 101 N 1 0 0 1 0 0 3
+Refer: 130 710 N 1 0 0.611613 1 -475.561 108 2
+Validated: 1
+EndChar

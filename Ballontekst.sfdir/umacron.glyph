@@ -1,0 +1,13 @@
+StartChar: umacron
+Encoding: 363 363 126
+Width: 1024
+GlyphClass: 2
+Flags: W
+HStem: 1386 149<234.346 914.002>
+VStem: 1024 189<1185.94 1288>
+LayerCount: 2
+Fore
+Refer: 58 117 N 1 0 0 1 0 0 3
+Refer: 132 713 N 1 0 0 1 544 245 2
+Validated: 1
+EndChar

@@ -1,0 +1,91 @@
+SplineFontDB: 3.2
+FontName: Suske&WiskeTitelletters
+FullName: Suske & Wiske Titelletters
+FamilyName: Suske & Wiske Titelletters
+Weight: Book
+Copyright: 
+Version: 2.00;June 6, 2020
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 1
+Ascent: 1563
+Descent: 391
+InvalidEm: 0
+sfntRevision: 0x00000000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 59 99854125 15925278]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1591416366
+ModificationTime: 1739109408
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 73
+VLineGap: 0
+Panose: 2 11 6 3 5 3 2 2 2 4
+OS2TypoAscent: 1962
+OS2TypoAOffset: 0
+OS2TypoDescent: 81
+OS2TypoDOffset: 0
+OS2TypoLinegap: 73
+OS2WinAscent: 2500
+OS2WinAOffset: 0
+OS2WinDescent: -81
+OS2WinDOffset: 0
+HheadAscent: 1962
+HheadAOffset: 0
+HheadDescent: 81
+HheadDOffset: 0
+OS2SubXSize: 0
+OS2SubYSize: 0
+OS2SubXOff: 0
+OS2SubYOff: 0
+OS2SupXSize: 0
+OS2SupYSize: 0
+OS2SupXOff: 0
+OS2SupYOff: 0
+OS2StrikeYSize: 1
+OS2StrikeYPos: 0
+OS2CapHeight: 1953
+OS2XHeight: 1563
+OS2Vendor: '    '
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000001.00000000.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  62
+  184
+  4
+  0
+  0
+  1
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+EndShort
+LangName: 1033 "" "Suske & Wiske +AMUAxADW" "Regular" "" "" "Version 2.00;June 6, 2020"
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 14
+BeginPrivate: 0
+EndPrivate
+EndSplineFont

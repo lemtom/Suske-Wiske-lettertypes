@@ -1,0 +1,13 @@
+StartChar: Idieresis
+Encoding: 207 207 81
+Width: 811
+GlyphClass: 2
+Flags: W
+HStem: 1919 188<366.144 570.426 869.689 1077.77>
+VStem: 12.375 317<103.93 268.344> 347.375 242<1944.75 2083.93> 849.375 252<1948.89 2091.74>
+LayerCount: 2
+Fore
+Refer: 17 73 N 1 0 0 1 -0.000239857 0 3
+Refer: 65 168 S 1 0 0 1 552.375 733 2
+Validated: 1
+EndChar

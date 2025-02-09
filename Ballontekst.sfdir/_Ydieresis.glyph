@@ -1,0 +1,13 @@
+StartChar: Ydieresis
+Encoding: 376 376 128
+Width: 1208
+GlyphClass: 2
+Flags: W
+HStem: 1930 188<587.766 792.048 1091.31 1299.4>
+VStem: 480.998 224<1172 1672.86> 495.998 238<1229.92 1678> 568.997 242<1955.75 2094.93> 1071 252<1959.89 2102.74>
+LayerCount: 2
+Fore
+Refer: 33 89 N 1 0 0 1 -0.000246063 0 3
+Refer: 65 168 N 1 0 0 1 455.997 746 2
+Validated: 5
+EndChar

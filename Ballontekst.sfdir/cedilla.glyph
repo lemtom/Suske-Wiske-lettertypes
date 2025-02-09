@@ -1,0 +1,69 @@
+StartChar: cedilla
+Encoding: 184 184 67
+Width: 299
+GlyphClass: 2
+Flags: W
+HStem: -445 152<99.7883 325.641> -34 149<88.1416 253.366>
+VStem: 343 156<-274.314 -112.748>
+TtInstrs:
+NPUSHB
+ 18
+ 23
+ 9
+ 12
+ 89
+ 3
+ 7
+ 21
+ 15
+ 130
+ 0
+ 21
+ 25
+ 21
+ 43
+ 27
+ 122
+ 147
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+FLIPON
+MDRP[rp0,min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+SRP0
+MDRP[rnd,grey]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+MDRP[rp0,rnd,grey]
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+499 -196 m 4,0,1
+ 499 -320 499 -320 438.5 -382.5 c 132,-1,2
+ 378 -445 378 -445 257 -445 c 4,3,4
+ 172 -445 172 -445 96 -413 c 4,5,6
+ 0 -371 0 -371 0 -298 c 4,7,8
+ 0 -244 0 -244 68 -244 c 4,9,10
+ 104 -244 104 -244 149.5 -268.5 c 132,-1,11
+ 195 -293 195 -293 246 -293 c 4,12,13
+ 295 -292 295 -292 319 -269 c 132,-1,14
+ 343 -246 343 -246 343 -201 c 4,15,16
+ 343 -141 343 -141 273 -91 c 4,17,18
+ 217 -51 217 -51 148 -34 c 4,19,20
+ 83 -19 83 -19 83 39 c 4,21,22
+ 83 115 83 115 155 115 c 4,23,24
+ 275 115 275 115 385 20 c 4,25,26
+ 499 -78 499 -78 499 -196 c 4,0,1
+EndSplineSet
+Validated: 1
+EndChar

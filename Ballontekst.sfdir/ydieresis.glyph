@@ -1,0 +1,13 @@
+StartChar: ydieresis
+Encoding: 255 255 113
+Width: 1077
+GlyphClass: 2
+Flags: W
+HStem: 1389 188<529.242 733.525 1032.79 1240.87>
+VStem: 510.474 242<1414.75 1553.93> 1012.47 252<1418.89 1561.74>
+LayerCount: 2
+Fore
+Refer: 62 121 N 1 0 0 1 0.000154194 0 3
+Refer: 65 168 N 1 0 0 1 481.474 217 2
+Validated: 5
+EndChar

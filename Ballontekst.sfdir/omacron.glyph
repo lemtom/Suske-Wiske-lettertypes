@@ -1,0 +1,13 @@
+StartChar: omacron
+Encoding: 333 333 122
+Width: 814
+GlyphClass: 2
+Flags: W
+HStem: 1146 182<604.033 797.698> 1423 149<131.231 810.887>
+VStem: -75.115 148<252.262 485.797>
+LayerCount: 2
+Fore
+Refer: 52 111 N 1 0 0 1 0.000355114 0 3
+Refer: 132 713 S 1 0 0 1 524.885 282 2
+Validated: 1
+EndChar
